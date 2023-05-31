@@ -1,12 +1,11 @@
 ---
 title: Home
 ---
+
 {:.center}
-
 # AI for Medicine Research Group
-
+{:.center}
 Welcome to the AI for Medicine Research Group! We are a team of researchers dedicated to advancing the field of precision medicine through the use of artificial intelligence. At the heart of our work is a commitment to open science and collaboration. We believe in sharing all of our source code to accelerate research in this field, and we're excited to work with others who share our passion for using AI to improve patient outcomes.
-
 {%
   include button.html
   type="github"
@@ -48,6 +47,7 @@ At the heart of our research efforts lies a singular goal: leveraging technology
 {:.center}
 We firmly believe in the power of collaboration to advance the field of precision medicine. As staunch advocates of open science, we freely share our code and methodologies on our GitHub page, fostering transparency and accelerating research progress. Explore our diverse range of tools, including cutting-edge generative models for synthesizing realistic medical data and innovative solutions for detecting data leakage in medical workflows.
 Here, you'll find a collection of powerful tools developed by our team, designed to address critical challenges in healthcare. These tools includes cutting-edge generative models for synthesizing realistic imaging brain MRI and innovative solutions for detecting data leakage in medical workflows.
+{:.center}
 {%
   include button.html
   link="tools"
