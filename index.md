@@ -78,15 +78,3 @@ In the dynamic field of biomedical research, we embrace the power of a multidisc
 %}
 {:.center}
 
-
-
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
