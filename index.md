@@ -21,7 +21,7 @@ Welcome to the AI for Medicine Research Group! We are a team of researchers dedi
 {% 
   include section.html
   background="images/Research_img.png"
-  dark=false
+  dark=true
   size=full
 %}
 ## Our Research
@@ -43,7 +43,7 @@ At the heart of our research efforts lies a singular goal: leveraging technology
 {% 
   include section.html
   background="images/Resources_img.png"
-  dark=true
+  dark=false
   size=full
 %}
 ## Our Resources
@@ -65,7 +65,7 @@ Here, you'll find a collection of powerful tools developed by our team, designed
 {% 
   include section.html
   background="images/Team_img.png"
-  dark=false
+  dark=true
   size=full
 %}
 ## Our Team
@@ -82,7 +82,13 @@ In the dynamic field of biomedical research, we embrace the power of a multidisc
 {:.center}
 
 
+{% include section.html full=true %}
+{% include banner.html image="images/AIphrase.png" %}
+
+
 {% include section.html %}
 
 ## Follow us on social networks!
+{:.center}
 {% include twitter.html %}
+{:.center}
