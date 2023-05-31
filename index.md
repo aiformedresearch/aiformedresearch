@@ -35,7 +35,14 @@ Our research mainly focuses in Neurological Disorders, such as Dementia, Autism 
 At the heart of our research efforts lies a singular goal: leveraging technology to drive advancements in healthcare. Our focus is on designing and developing specialized frameworks that address healthcare challenges, assist clinicians, uncover valuable biomarkers, and bridge the gap between computer science research and practical clinical applications. With a particular emphasis on the power of AI, we aim to optimize the medical domain by effectively utilizing technologies like images, clinical data, and genomics. By applying our expertise in these areas, we strive to improve medical practices and outcomes, making a tangible impact on the field of healthcare.
 {:.center}
 
-
+{%
+  include button.html
+  link="research"
+  text="See what we've published"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
 
 
 
