@@ -95,6 +95,5 @@ In the dynamic field of biomedical research, we embrace the power of a multidisc
 {% include section.html %}
 
 ## Follow us on social networks!
-{:.center}
 {% include twitter.html %}
 {:.center}
