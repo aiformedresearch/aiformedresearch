@@ -4,7 +4,7 @@ title: Home
 
 {% 
   include section.html
-  background="images/Campus.png"
+  background="images/Campus.jpg"
   dark=false
   size=full
 %}
