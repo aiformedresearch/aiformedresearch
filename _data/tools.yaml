@@ -1,9 +1,9 @@
 - title: Slice Level Data Leakage
   group: featured
   image: images/slice-level-data-leakage.png
-  link: https://github.com/Imaging-AI-for-Health-virtual-lab/Slice-Level-Data-Leakage
   description: Effect of data leakage caused by inappropriate train/validation split of 3D MR image data. 
   repo: Imaging-AI-for-Health-virtual-lab/Slice-Level-Data-Leakage
+  link: https://github.com/Imaging-AI-for-Health-virtual-lab/Slice-Level-Data-Leakage
   extra-links:
   - type: pdf
     link: https://www.nature.com/articles/s41598-021-01681-w
