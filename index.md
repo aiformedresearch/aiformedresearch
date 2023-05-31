@@ -1,6 +1,7 @@
 ---
 title: Home
 ---
+{:.center}
 
 # AI for Medicine Research Group
 
