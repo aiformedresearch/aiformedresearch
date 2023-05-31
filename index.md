@@ -1,10 +1,10 @@
 ---
+title: Home
 ---
 
-# Lab Website Template
+# AI for Medicine Research Group
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+Welcome to the AI for Medicine Research Group! We are a team of researchers dedicated to advancing the field of precision medicine through the use of artificial intelligence. At the heart of our work is a commitment to open science and collaboration. We believe in sharing all of our source code to accelerate research in this field, and we're excited to work with others who share our passion for using AI to improve patient outcomes.
 
 {%
   include button.html
@@ -14,8 +14,8 @@ Spend less time worrying about managing a website and citations, and more time r
 {%
   include button.html
   type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
+  text="See our Lab on GitHub"
+  link="[greenelab/lab-website-template](https://github.com/aiformedresearch)"
 %}
 
 {% include section.html %}
