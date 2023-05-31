@@ -14,7 +14,7 @@ At the AI for Medicine Research Group, we are dedicated to advancing the field o
 
 ## Featured
 
-{% include list.html component="citation" data="tools" filters="group: featured" %}
+{% include list.html component="card" data="tools" filters="group: featured" %}
 
 {% include section.html %}
 
