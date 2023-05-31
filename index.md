@@ -40,7 +40,7 @@ At the heart of our research efforts lies a singular goal: leveraging technology
 {% 
   include section.html
   background="images/Resources_img.png"
-  dark=false
+  dark=true
   size=full
 %}
 ## Our Resources
