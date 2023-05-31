@@ -9,11 +9,6 @@ Welcome to the AI for Medicine Research Group! We are a team of researchers dedi
 
 {%
   include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
   type="github"
   text="See our Lab on GitHub"
   link="[greenelab/lab-website-template](https://github.com/aiformedresearch)"
