@@ -2,6 +2,12 @@
 title: Home
 ---
 
+{% 
+  include section.html
+  background="images/Campus.png"
+  dark=false
+  size=full
+%}
 {:.center}
 # AI for Medicine Research Group
 {:.center}
