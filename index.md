@@ -41,6 +41,7 @@ At the heart of our research efforts lies a singular goal: leveraging technology
 {% 
   include section.html
   background="images/Resources_img.png"
+  dark=true
   size=full
 %}
 ## Our Resources
@@ -61,6 +62,7 @@ Here, you'll find a collection of powerful tools developed by our team, designed
 {% 
   include section.html
   background="images/Team_img.png"
+  dark=true
   size=full
 %}
 ## Our Team
@@ -70,7 +72,7 @@ In the dynamic field of biomedical research, we embrace the power of a multidisc
   include button.html
   link="team"
   text="Meet our team"
-  icon="fa-solid fa-arrow-right"
+  icon="fas fa-arrow-right"
   flip=true
   style="bare"
 %}
