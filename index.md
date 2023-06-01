@@ -16,7 +16,7 @@ Welcome to the AI for Medicine Research Group! We are a team of researchers dedi
   include button.html
   type="github"
   text="See our Lab on GitHub"
-  link="[greenelab/lab-website-template](https://github.com/aiformedresearch)"
+  link="[https://github.com/aiformedresearch](https://github.com/aiformedresearch)"
 %}
 
 
@@ -25,7 +25,7 @@ Welcome to the AI for Medicine Research Group! We are a team of researchers dedi
   include section.html
   background="images/AIphrase.png"
   dark=false
-  size=full
+  size=wide
 %}
 
 {% 
