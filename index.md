@@ -21,7 +21,7 @@ Welcome to the AI for Medicine Research Group! We are a team of researchers dedi
 
 
 {% include section.html full=true %}
-{% include figure.html image="images/AIphrase2.png" width="100%" %}
+{% include figure.html image="images/AIphrase.png" height="100%" %}
 
 
 {% 
@@ -89,7 +89,7 @@ In the dynamic field of biomedical research, we embrace the power of a multidisc
 
 
 {% include section.html full=true %}
-{% include banner.html image="images/AIphrase.png" %}
+{% include banner.html image="images/AIphrase2.png" height="100%" %}
 
 
 {% include section.html %}
