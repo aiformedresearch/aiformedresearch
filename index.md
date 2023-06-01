@@ -16,7 +16,7 @@ Welcome to the AI for Medicine Research Group! We are a team of researchers dedi
   include button.html
   type="github"
   text="See our Lab on GitHub"
-  link="https://github.com/aiformedresearch"
+  link="aiformedresearch"
 %}
 
 
