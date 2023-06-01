@@ -20,9 +20,13 @@ Welcome to the AI for Medicine Research Group! We are a team of researchers dedi
 %}
 
 
-{% include section.html full=true %}
-{% include figure.html image="images/AIphrase.png" height="800px" %}
 
+{%
+  include section.html
+  background="images/AIphrase.png"
+  dark=false
+  size=full
+%}
 
 {% 
   include section.html
