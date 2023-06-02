@@ -42,9 +42,9 @@
       {% include tags.html tags=include.tags repo=include.repo %}
     {% endif %}
     
-    {% if card.buttons.size > 0 %}
-        <div class="citation-buttons">
-          {% for button in card.buttons %}
+    {% if include.buttons.size > 0 %}
+        <div class="card-buttons">
+          {% for button in include.buttons %}
             {%
               include button.html
               type=button.type
