@@ -2,15 +2,15 @@
 title: AI for Medicine Research Group
 subtitle: 
 description: 
-header: images/Campus.jpg
-footer: images/background.jpg
+header: images/background_brain.jpg
+footer: images/background_brain.jpg
 
 # site social media and other links
 links:
   email: contact@your-lab.com
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: https://github.com/aiformedresearch
+  github: aiformedresearch
   twitter: YourLabHandle
   youtube: YourLabChannel
 
