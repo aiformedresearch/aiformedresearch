@@ -5,7 +5,7 @@
   repo: Imaging-AI-for-Health-virtual-lab/Slice-Level-Data-Leakage
   link: https://github.com/Imaging-AI-for-Health-virtual-lab/Slice-Level-Data-Leakage
   buttons:
-  - type: article
+  - type: paper
     link: https://www.nature.com/articles/s41598-021-01681-w
     text: Manuscript
   - type: github
@@ -23,7 +23,7 @@
   description: Generative adversarial network to synthesize brain MRI of Alzheimer's patients and healthy controls, and perform classification.
   repo: Imaging-AI-for-Health-virtual-lab/GANs-for-brain-MRI-synthesis
   buttons:
-  - type: article
+  - type: book
     link: https://www.google.com
     text: Manuscript
   - type: github
