@@ -148,12 +148,6 @@ error:
 
 # publications
 
-pdf:
-  icon: far fa-newspaper
-  text: pdf
-  tooltip: pdf
-  link: $LINK
-
 paper:
   icon: fa-solid fa-scroll
   text: Paper
