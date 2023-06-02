@@ -88,7 +88,7 @@ code_ocean:
   icon: fa-brands fa-code
   text: Code Ocean
   tooltip: Code Ocean
-  link: https://codeocean.com/$VALUE
+  link: https://codeocean.com/wp-content/uploads/2020/11/$VALUE
 
 github:
   icon: fa-brands fa-github
