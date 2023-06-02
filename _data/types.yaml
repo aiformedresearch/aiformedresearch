@@ -83,6 +83,12 @@ google-scholar:
   text: Google Scholar
   tooltip: Google Scholar
   link: https://scholar.google.com/citations?user=$VALUE
+  
+code_ocean:
+  icon: fa-brands fa-code
+  text: Code Ocean
+  tooltip: Code Ocean
+  link: https://codeocean.com/$VALUE
 
 github:
   icon: fa-brands fa-github
