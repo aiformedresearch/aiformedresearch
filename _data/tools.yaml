@@ -28,10 +28,10 @@
     text: Article
   - type: github
     link: https://github.com/aiformedresearch/PACGAB
-  - type: code_ocean
+  - type: source
     link: https://codeocean.com/capsule/4918212/tree
     text: Code Ocean
-    tooltip: Code Ocean1
+    tooltip: Code Ocean
   tags:
     - GAN
     - Classification
