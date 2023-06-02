@@ -5,14 +5,6 @@
   repo: Imaging-AI-for-Health-virtual-lab/Slice-Level-Data-Leakage
   link: https://github.com/Imaging-AI-for-Health-virtual-lab/Slice-Level-Data-Leakage
   buttons:
-  - type: manubot
-    link: https://www.nature.com/articles/s41598-021-01681-w
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: https://github.com/Imaging-AI-for-Health-virtual-lab/Slice-Level-Data-Leakage
-  extra-links:
   - type: pdf
     link: https://www.nature.com/articles/s41598-021-01681-w
     text: Manuscript
@@ -30,7 +22,7 @@
   link: https://github.com/Imaging-AI-for-Health-virtual-lab/GANs-for-brain-MRI-synthesis
   description: Generative adversarial network to synthesize brain MRI of Alzheimer's patients and healthy controls, and perform classification.
   repo: Imaging-AI-for-Health-virtual-lab/GANs-for-brain-MRI-synthesis
-  extra-links:
+  buttons:
   - type: pdf
     link: https://www.google.com
     text: Manuscript
@@ -52,7 +44,7 @@
   link: https://github.com/sdiciotti/Age-Prediction-Demo
   description: Demo to predict the age based on brain MRI features.
   repo: sdiciotti/Age-Prediction-Demo
-  extra-links:
+  buttons:
   - type: github
     link: https://github.com/sdiciotti/Age-Prediction-Demo
   tags:
