@@ -5,7 +5,7 @@ title: Home
 {% 
   include section.html
   background="images/Campus.jpg"
-  dark=true
+  dark=false
   size=full
 %}
 {:.center}
