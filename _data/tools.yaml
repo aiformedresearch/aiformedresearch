@@ -28,7 +28,7 @@
     text: Article
   - type: github
     link: https://github.com/aiformedresearch/PACGAB
-  - type: source
+  - type: code_ocean
     link: https://codeocean.com/capsule/4918212/tree
     text: Code Ocean
   tags:
