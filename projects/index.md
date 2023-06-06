@@ -7,8 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Through our innovative projects, we aim to address critical challenges, accelerate medical discoveries, and improve patient outcomes.
+In this section, we proudly present our ongoing and completed projects that have been funded by esteemed organizations and grants. Each project represents a collaborative effort, bringing together experts in AI, medicine, and related disciplines to tackle complex problems at the intersection of technology and healthcare.
+If you're interested in collaborating, partnering, or learning more about our research group, we encourage you to reach out to us.
 
 {% include tags.html tags="neuro, lung cancer" %}
 
