@@ -4,5 +4,6 @@
   image: images/ataxia_brainpic.jpg
   link: https://www.telethon.it/cosa-facciamo/ricerca/progetti-finanziati/intelligenza-artificiale-per-la-predizione-individuale-la-dimensione-frattale-dellencefalo-nella-atassia-di-friedreich-e-nelle-atassie-spinocerebellari-sca-nel-network-internazionale-enigm
   description: Understanding the potential of brain Fractal Dimension as Ataxia marker
+  repo: greenelab/lab-website-template
   tags:
     - neuro
