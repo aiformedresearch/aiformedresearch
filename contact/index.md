@@ -39,8 +39,3 @@ Viale del Risorgimento 2, Bologna](https://www.unibo.it/it/ateneo/sedi-e-struttu
 Viale del Risorgimento 2, Bologna, Italy
 {:.center}
 
-{%
-  include figure.html
-  image="images/Research_img.png"
-  caption="Department of Electrical, Electronic, and Information Engineering 'Guglielmo Marconi'"
-%}
