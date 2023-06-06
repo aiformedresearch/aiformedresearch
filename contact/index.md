@@ -9,7 +9,6 @@ nav:
 
 Our lab is part of the [Dipartimento di Ingegneria dell'Energia Elettrica e dell'Informazione "Guglielmo Marconi"
 Viale del Risorgimento 2, Bologna](https://www.unibo.it/it/ateneo/sedi-e-strutture/scuole/scuola-di-ingegneria).
- {% include button.html link="team" text="Meet our team" icon="fas fa-arrow-right" flip=true %} {:.center}
 
 {%
   include button.html
