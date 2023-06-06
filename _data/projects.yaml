@@ -1,47 +1,8 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Intelligenza artificiale per la predizione individuale: la dimensione frattale dell’encefalo nella atassia di Friedreich e nelle atassie spinocerebellari (SCA) nel network internazionale ENIGMA-Ataxia
+  subtitle: Fondazione Telethon and Alma Mater Research Institute for Human-Centered Artificial Intelligence
+  group: past
+  image: images/ataxia_brainpic.jpg
+  link: https://www.telethon.it/cosa-facciamo/ricerca/progetti-finanziati/intelligenza-artificiale-per-la-predizione-individuale-la-dimensione-frattale-dellencefalo-nella-atassia-di-friedreich-e-nelle-atassie-spinocerebellari-sca-nel-network-internazionale-enigm
+  description: Understanding the potential of brain Fractal Dimension as Ataxia marker
   tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - neuro
