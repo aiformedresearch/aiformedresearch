@@ -9,34 +9,31 @@ nav:
 
 Our lab is part of the [Dipartimento di Ingegneria dell'Energia Elettrica e dell'Informazione "Guglielmo Marconi"
 Viale del Risorgimento 2, Bologna](https://www.unibo.it/it/ateneo/sedi-e-strutture/scuole/scuola-di-ingegneria).
-
+ {% include button.html link="team" text="Meet our team" icon="fas fa-arrow-right" flip=true %} {:.center}
 
 {%
-  include link.html
+  include button.html
   type="email"
   icon=""
   text="stefano.diciotti@unibo.it"
-  tooltip=""
+  
   link="stefano.diciotti@unibo.it"
-  style="button"
+ 
 %}
 {%
-  include link.html
+  include button.html
   type="phone"
   icon=""
-  text="+39 0547 339121"
-  tooltip=""
+  text="+39 0547 339121
   link="+39 0547 339121"
-  style="button"
 %}
 {%
-  include link.html
+  include button.html
   type="address"
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.it/maps/place/Viale+del+Risorgimento,+2,+40136+Bologna+BO/@44.4878365,11.3288783,17z/data=!3m1!4b1!4m5!3m4!1s0x477fd4edda548a25:0x7c6e534749a16935!8m2!3d44.4878365!4d11.331067"
-  style="button"
 %}
 {:.center}
 
