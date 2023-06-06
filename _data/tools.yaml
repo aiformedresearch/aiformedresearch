@@ -9,7 +9,7 @@
     link: https://www.nature.com/articles/s41598-021-01681-w
     text: Article
   - type: github
-    link: https://github.com/Imaging-AI-for-Health-virtual-lab/Slice-Level-Data-Leakage
+    link: Imaging-AI-for-Health-virtual-lab/Slice-Level-Data-Leakage
   tags: 
     - Brain MRI
     - Data Leakage
@@ -47,7 +47,7 @@
   repo: sdiciotti/Age-Prediction-Demo
   buttons:
   - type: github
-    link: https://github.com/sdiciotti/Age-Prediction-Demo
+    link: sdiciotti/Age-Prediction-Demo
   tags:
     - Machine learning
     - SVR
