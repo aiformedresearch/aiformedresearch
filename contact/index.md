@@ -41,6 +41,6 @@ Viale del Risorgimento 2, Bologna, Italy
 
 {%
   include figure.html
-  image="images/ingerisorgimento.jpeg"
+  image="images/Research_img.png"
   caption="Department of Electrical, Electronic, and Information Engineering 'Guglielmo Marconi'"
 %}
