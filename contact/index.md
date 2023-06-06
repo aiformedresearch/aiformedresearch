@@ -12,23 +12,19 @@ Viale del Risorgimento 2, Bologna](https://www.unibo.it/it/ateneo/sedi-e-struttu
 
 {%
   include button.html
-  type="email"
   icon=""
   text="stefano.diciotti@unibo.it"
-  
   link="stefano.diciotti@unibo.it"
  
 %}
 {%
   include button.html
-  type="phone"
   icon=""
   text="+39 0547 339121
   link="+39 0547 339121"
 %}
 {%
   include button.html
-  type="address"
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
