@@ -1,9 +1,8 @@
-- title: "Intelligenza artificiale per la predizione individuale: la dimensione frattale dell’encefalo nella atassia di Friedreich e nelle atassie spinocerebellari (SCA) nel network internazionale ENIGMA-Ataxia"
-  subtitle: Fondazione Telethon and Alma Mater Research Institute for Human-Centered Artificial Intelligence
+- title: "Intelligenza artificiale per la predizione individuale:"
+  subtitle: la dimensione frattale dell’encefalo nella atassia di Friedreich e nelle atassie spinocerebellari (SCA) nel network internazionale ENIGMA-Ataxia
   group: past
   image: images/ataxia_brainpic.jpg
   link: https://www.telethon.it/cosa-facciamo/ricerca/progetti-finanziati/intelligenza-artificiale-per-la-predizione-individuale-la-dimensione-frattale-dellencefalo-nella-atassia-di-friedreich-e-nelle-atassie-spinocerebellari-sca-nel-network-internazionale-enigm
-  description: Understanding the potential of brain Fractal Dimension as Ataxia marker
-  repo: greenelab/lab-website-template
+  description: "Understanding the potential of brain Fractal Dimension as Ataxia marker, by Fondazione Telethon and Alma Mater Research Institute for Human-Centered Artificial Intelligence"
   tags:
     - neuro
