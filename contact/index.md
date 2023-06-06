@@ -5,37 +5,73 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# <i class="fas fa-envelope"></i>Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is part of the [Dipartimento di Ingegneria dell'Energia Elettrica e dell'Informazione "Guglielmo Marconi"
-Viale del Risorgimento 2, Bologna](https://www.unibo.it/it/ateneo/sedi-e-strutture/scuole/scuola-di-ingegneria).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include button.html
-  icon=""
-  text="stefano.diciotti@unibo.it"
-  link="stefano.diciotti@unibo.it"
- 
+  type="email"
+  text="jane@smith.com"
+  link="jane@smith.com"
 %}
 {%
   include button.html
-  icon=""
-  text="+39 0547 339121"
-  link="+39 0547 339121"
+  type="phone"
+  text="(555) 867-5309"
+  link="+1-555-867-5309"
 %}
 {%
   include button.html
-  icon=""
-  text="Google Maps"
+  type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.it/maps/place/Viale+del+Risorgimento,+2,+40136+Bologna+BO/@44.4878365,11.3288783,17z/data=!3m1!4b1!4m5!3m4!1s0x477fd4edda548a25:0x7c6e534749a16935!8m2!3d44.4878365!4d11.331067"
+  link="https://www.google.com/maps"
 %}
-{:.center}
 
 {% include section.html %}
 
-### <i class="fas fa-mail-bulk"></i>Mailing Address
+{% capture col1 %}
 
-Viale del Risorgimento 2, Bologna, Italy
-{:.center}
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Lorem ipsum"
+%}
 
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Lorem ipsum"
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
+
+{% include section.html dark=true %}
+
+{% capture col1 %}
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
+{% endcapture %}
+
+{% capture col2 %}
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
+{% endcapture %}
+
+{% capture col3 %}
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
