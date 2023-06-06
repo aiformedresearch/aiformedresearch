@@ -20,7 +20,7 @@ Viale del Risorgimento 2, Bologna](https://www.unibo.it/it/ateneo/sedi-e-struttu
 {%
   include button.html
   icon=""
-  text="+39 0547 339121
+  text="+39 0547 339121"
   link="+39 0547 339121"
 %}
 {%
