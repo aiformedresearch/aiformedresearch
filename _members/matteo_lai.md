@@ -1,7 +1,7 @@
 ---
 title: Matteo Lai
 name: Matteo Lai
-image: images/Matteo_Lai_photo_small.jpg
+image: images/matteo_lai.jpg
 role: phd
 description: PhD student
 group: alum
