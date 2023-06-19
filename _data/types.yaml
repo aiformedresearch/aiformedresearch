@@ -220,3 +220,25 @@ package:
   icon: fa-solid fa-box
   text: Package
   tooltip: Package
+
+
+
+# general
+
+link:
+  icon: fas fa-globe
+  text: Link
+  tooltip: Link
+  link: $LINK
+
+CV:
+  icon: fa-sharp fa-solid fa-folder-user
+  text: CV
+  tooltip: Curriculum Vitae
+  link: $LINK
+  
+resume:
+  icon: fa-thin fa-file-user
+  text: Resume
+  tooltip: Resume
+  link: $LINK
