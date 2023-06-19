@@ -1,5 +1,5 @@
 ---
-title: Group Members
+title: Team
 description: Read about the AI for Medicine Research Group members.
 nav:
   order: 1
