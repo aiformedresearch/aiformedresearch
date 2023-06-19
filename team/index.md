@@ -1,35 +1,43 @@
 ---
-title: Team
+title: Group Members
+description: Read about the AI for Medicine Research Group members.
 nav:
-  order: 3
-  tooltip: About our team
+  order: 1
+  tooltip: About the group members
+
+header-dark: false
+footer-dark: false
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+<!-- section dark -->
+<!-- section background images/banner.jpg -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% include figure.html image="images/team_photo.jpg" width="40%" height="40%" %}
 
 {% include section.html %}
+# <i class="fas fa-users"></i>Group Members
 
-{% capture content %}
+<center>The <b>AI for Medicine Research Group</b> is led by <b>Prof. Stefano Diciotti</b>.<br><br>
+<i>For up-to-date info about the Group members, check out their personal links.</i></center>
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
 
-{% endcapture %}
 
-{% include grid.html style="square" content=content %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: pi"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phd"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: programmer"
+%}
+{:.center}
