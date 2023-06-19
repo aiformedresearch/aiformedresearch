@@ -20,5 +20,5 @@ links:
   CV: https://drive.google.com/file/d/1zUWOZWNLkQ_Fam2haIbTG0V-4pII3i__/view
 ---
 
-<center>"Everything you can imagine is real" (Pablo Picasso).<br><br><br><br>Andrea's doctoral research project is "Beyond Supervised Learning frameworks for Precision Medicine". <br><br>He is focused on <b>Self-supervised, Semi-supervised, Multi-modal learning, Imaging and Genomics</b>.</center>
+<center>"Everything you can imagine is real" (Pablo Picasso)<br><br><br><br>Andrea's doctoral research project is "Beyond Supervised Learning frameworks for Precision Medicine". <br><br>He is focused on <b>Self-supervised, Semi-supervised, Multi-modal learning, Imaging and Genomics</b>.</center>
   
