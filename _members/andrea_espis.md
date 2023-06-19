@@ -10,7 +10,7 @@ aliases:
   - A Espis
   - Andrea Espis 
 links:
-  email: andrea.espis3@studio.unibo.it
+  email: andrea.espis3@unibo.it
   website: https://97andrea97.github.io/personal_website/
   github: 97andrea97
   orcid: write here your orcid
