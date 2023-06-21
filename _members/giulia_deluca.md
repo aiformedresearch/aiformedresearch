@@ -16,5 +16,5 @@ links:
   CV: https://drive.google.com/file/d/1-JMFlpE-XRUAMeAF9ri-E4jPn3NCxeI2/view?usp=drive_link
 ---
 
-<center>"What I cannot create, I do not understand" (Richard Feynman)<br><br><br><br>Giulia's postgraduate research project is "Archive of CT Images and Evaluation of Diagnostic Support Systems for Lung Cancer Screening".<br><br>Her work is focused on </b>Generative learning (GANs and Diffusion Models), Imaging and Lung Cancer Screening.</b></center>
+<center>"What I cannot create, I do not understand" (Richard Feynman)<br><br><br><br>Giulia's postgraduate research project is "Archive of CT Images and Evaluation of Diagnostic Support Systems for Lung Cancer Screening".<br><br>Her work is focused on <b>Generative learning (GANs and Diffusion Models), Imaging and Lung Cancer Screening.</b></center>
   
