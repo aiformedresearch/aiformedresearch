@@ -10,15 +10,13 @@ aliases:
   - M Lai
   - Matteo Lai
 links:
-  email: matteo.lai3@studio.unibo.it
-  website: www.linkedin.com/in/matteo-lai-519654204
-  github: MatteoLai
-  orcid: write here your orcid
-  google-scholar: write here your scholar id
-  linkedin: www.linkedin.com/in/matteo-lai-519654204
-  resume: https://docs.google.com/document/d/15SAMKXMRrfubAbj15Lo5xi_oYxJ2zT5G8bfREP_3Eww/edit?usp=sharing
-  CV: https://drive.google.com/file/d/1zUWOZWNLkQ_Fam2haIbTG0V-4pII3i__/view
+  email: matteo.lai3@unibo.it
+  website: https://www.unibo.it/sitoweb/matteo.lai3
+  github: https://github.com/MatteoLai
+  linkedin: https://www.linkedin.com/in/matteo-lai-519654204/
+  resume: https://drive.google.com/file/d/174sXZhpZHqOORweL7H2oxsHDN-RCS9OR/view?usp=sharing
+  CV: https://www.canva.com/design/DAFmRaFzsDc/GJoPET0e22kcA5JhWF8rJg/view?website#4:problem-solving
 ---
 
-<center>"I believe in ... philosophical or funny or whatever kind of sentence to make the reader interested into you."<br><br>Andrea's doctoral research project is "Beyond Supervised Learning frameworks for Precision Medicine". <br><br>He is focused on <b>Self-supervised, Semi-supervised, Multi-modal learning, Imaging and Genomics</b>.</center>
+<center>"Live as if you were to die tomorrow. Learn as if you were to live forever."(Mahatma Gandhi)<br><br>Matteo's doctoral research project is "A deep learning framework for unveiling multimodal neural signatures in the Autism Spectrum Disorder". <br><br>He is focused on explaining the continuum of <\b>autism spectrum disorder<\b> and identifying potential biomarkers by employing state-of-the-art deep learning methodologies, such as <\b>Generative Adversarial Networks (GANs)<\b>, to analyze <\b>neuroimaging, EEG, and clinical data<\b>.</center>
   
