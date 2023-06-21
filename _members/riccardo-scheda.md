@@ -18,5 +18,5 @@ links:
   CV: https://drive.google.com/file/d/1mkgximeXJWGql8rdPo_iLDHcKFeZSi03/view?usp=sharing 
 ---
 
-<center>“Somewhere, something incredible is waiting to be known.”  (Carl Sagan) <br><br><br><br>Riccardo's doctoral research project is "Advanced Artificial Intelligence techniques for Health and Well being, with particular interest in eXplainable Artificial Intelligence techniques for biomedical and neuroimaging data". <br><br>His work is focused on </b>Explainable AI and Swarm Learning</b>.</center>
+<center>“Somewhere, something incredible is waiting to be known.”  (Carl Sagan)<br><br><br><br>Riccardo's doctoral research project is "Advanced Artificial Intelligence techniques for Health and Well being, with particular interest in eXplainable Artificial Intelligence techniques for biomedical and neuroimaging data".<br><br>His work is focused on <b>Explainable AI and Swarm Learning</b>.</center>
   
