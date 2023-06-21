@@ -18,5 +18,5 @@ links:
   CV: https://www.canva.com/design/DAFmRaFzsDc/GJoPET0e22kcA5JhWF8rJg/view?website#4:problem-solving
 ---
 
-<center>"Live as if you were to die tomorrow. Learn as if you were to live forever."(Mahatma Gandhi)<br><br>Matteo's doctoral research project is "A deep learning framework for unveiling multimodal neural signatures in the Autism Spectrum Disorder". <br><br>He is focused on explaining the continuum of <\b>autism spectrum disorder<\b> and identifying potential biomarkers by employing state-of-the-art deep learning methodologies, such as <\b>Generative Adversarial Networks (GANs)<\b>, to analyze <\b>neuroimaging, EEG, and clinical data<\b>.</center>
+<center>"Live as if you were to die tomorrow. Learn as if you were to live forever."(Mahatma Gandhi)<br><br><br><br>Matteo's doctoral research project is "A deep learning framework for unveiling multimodal neural signatures in the Autism Spectrum Disorder".<br><br>He is focused on explaining the continuum of <b>autism spectrum disorder</b> and identifying potential biomarkers by employing state-of-the-art deep learning methodologies, such as <b>Generative Adversarial Networks (GANs)</b>, to analyze <b>neuroimaging, EEG, and clinical data</b>.</center>
   
