@@ -13,7 +13,7 @@ links:
   email: andrea.espis3@unibo.it
   website: https://97andrea97.github.io/personal_website/
   github: 97andrea97
-  linkedin: www.linkedin.com/in/andrea-espis
+  linkedin: andrea-espis
   resume: https://docs.google.com/document/d/15SAMKXMRrfubAbj15Lo5xi_oYxJ2zT5G8bfREP_3Eww/edit?usp=sharing
   CV: https://drive.google.com/file/d/1zUWOZWNLkQ_Fam2haIbTG0V-4pII3i__/view
 ---
