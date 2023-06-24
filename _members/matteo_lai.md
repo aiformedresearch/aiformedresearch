@@ -12,8 +12,8 @@ aliases:
 links:
   email: matteo.lai3@unibo.it
   website: https://www.unibo.it/sitoweb/matteo.lai3
-  github: https://github.com/MatteoLai
-  linkedin: https://www.linkedin.com/in/matteo-lai-519654204/
+  github: MatteoLai
+  linkedin: matteo-lai-519654204/
   resume: https://drive.google.com/file/d/174sXZhpZHqOORweL7H2oxsHDN-RCS9OR/view?usp=sharing
   CV: https://www.canva.com/design/DAFmRaFzsDc/GJoPET0e22kcA5JhWF8rJg/view?website#4:problem-solving
 ---
