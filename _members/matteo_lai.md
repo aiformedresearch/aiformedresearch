@@ -11,7 +11,7 @@ aliases:
   - Matteo Lai
 links:
   email: matteo.lai3@unibo.it
-  website: https://www.unibo.it/sitoweb/matteo.lai3
+  website: https://www.unibo.it/sitoweb/matteo.lai3/en
   github: MatteoLai
   linkedin: matteo-lai-519654204/
   resume: https://drive.google.com/file/d/174sXZhpZHqOORweL7H2oxsHDN-RCS9OR/view?usp=sharing
