@@ -11,8 +11,8 @@ aliases:
   - Giulia Raffaella De Luca 
 links:
   email: giulia.deluca11@studio.unibo.it 
-  github: https://github.com/giurdeluca
-  linkedin: https://www.linkedin.com/in/giulia-raffaella-de-luca/
+  github: giurdeluca
+  linkedin: giulia-raffaella-de-luca/
   CV: https://drive.google.com/file/d/1-JMFlpE-XRUAMeAF9ri-E4jPn3NCxeI2/view?usp=drive_link
 ---
 
