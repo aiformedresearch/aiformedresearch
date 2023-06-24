@@ -12,9 +12,9 @@ aliases:
 links:
   email: riccardo.scheda2@unibo.it
   website: https://www.unibo.it/sitoweb/riccardo.scheda2/en
-  github: https://github.com/riccardoscheda 
-  orcid: https://orcid.org/0000-0002-8872-6804 
-  linkedin: https://www.linkedin.com/in/riccardo-scheda-6a3256197/ 
+  github: riccardoscheda 
+  orcid: 0000-0002-8872-6804 
+  linkedin: riccardo-scheda-6a3256197/ 
   CV: https://drive.google.com/file/d/1mkgximeXJWGql8rdPo_iLDHcKFeZSi03/view?usp=sharing 
 ---
 
