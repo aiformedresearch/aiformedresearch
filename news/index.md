@@ -23,4 +23,4 @@ nav:
 
 ## Follow us on social networks!
 {% include twitter.html %}
-{:.center}
+{:.right}
