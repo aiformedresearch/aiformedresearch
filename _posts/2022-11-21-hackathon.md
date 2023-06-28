@@ -1,5 +1,5 @@
 ---
-title: Third ML-INFN Hack
+title: INFN Hackathon
 author: riccardo scheda
 tags: hackaton, coding
 ---
