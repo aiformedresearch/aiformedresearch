@@ -19,9 +19,9 @@
 - title: PACGAN
   group: synthetic
   image: images/PACGAN.JPG
-  link: aiformedresearch/PACGAN
+  link: https://github.com/aiformedresearch/PACGAN
   description: Generative adversarial network to synthesize brain MRI of Alzheimer's patients and healthy controls, and perform classification.
-  repo: Imaging-AI-for-Health-virtual-lab/GANs-for-brain-MRI-synthesis
+  repo: aiformedresearch/PACGAN
   buttons:
   - type: article
     link: https://www.google.com
@@ -29,7 +29,7 @@
   - type: github
     link: aiformedresearch/PACGAN
   - type: source
-    link: https://codeocean.com/capsule/4918212/tree
+    link: https://codeocean.com/capsule/6317229/tree/v1
     text: Code Ocean
     tooltip: Code Ocean
   tags:
