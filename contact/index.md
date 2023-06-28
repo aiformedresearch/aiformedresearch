@@ -7,7 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-
+Our lab is part of the Department of Electrical, Electronic, and Information Engineering "Guglielmo Marconi", at the University of Bologna, Italy.
+We are located in Cesena at [Cesena Campus](https://www.unibo.it/it/campus-cesena)
 
 {%
   include button.html
