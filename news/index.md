@@ -17,3 +17,10 @@ nav:
 {% include search-info.html %}
 
 {% include list.html data="posts" component="post-excerpt" %}
+
+
+{% include section.html %}
+
+## Follow us on social networks!
+{% include twitter.html %}
+{:.center}
