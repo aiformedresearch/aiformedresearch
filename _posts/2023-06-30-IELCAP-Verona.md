@@ -1,0 +1,32 @@
+---
+title: I-ELCAP 44th International Conference on Screening for Lung Cancer
+author: giulia
+tags: lung cancer, screening
+---
+
+Today, Giulia is back home from the [44th International Conference on Screening for Lung Cancer &
+12th Conference on Research for Early Lung Cancer Treatment](https://www.organizing.it/event/44th-international-conference-on-screening-for-lung-cancer-12th-conference-on-research-for-early-lung-cancer-treatment/) located in Verona (VR)!
+
+The Conference lasted three days and the meetings where hosted in “Giorgio De Sandre” Congress Hall at Area Didattica|UniVerona, Ospedale Borgo Roma. The focus of the conference was to provide a forum to discuss the most urgent clinical and research topics related to early diagnosis and treatment of lung cancer and largely focused on issues of implementation and integration of the latest technological advances.
+
+> "Attending the 44th International Conference on Screening for Lung Cancer has been an inspiring experience," says Giulia. "I was truly honored to hear insights from renowned experts like Dr. Henschke and Yankelevitz, the founders of I-ELCAP. Their expertise and vision regarding lung cancer screenings are pivotal in guiding our path toward future advancements."
+
+## Photogallery
+
+Here are some snapshots from the conference:
+
+![Borgo Roma Hospital](images/lente-didattica.jpg)
+*Borgo Roma Hospital*
+
+![Congress Hall](images/conference-hall-VR.jpg)
+*"Giorgio De Sandre” Congress Hall*
+
+![Conference cover photo](images/conference-cover-VR.jpg)
+*Conference cover photo*
+
+![Conference Agenda](images/conference-program-VR.png)
+*Conference Agenda*
+
+![Conference Badge](images/conference-badge-VR.jpeg)
+*Conference Badge*
+
