@@ -6,7 +6,7 @@ title: Overcoming data limitations through generative models for the realization
 # <center><i class="Overcoming data limitations through generative models for the realization of high-resolution labeled medical imaging datasets"></i>Overcoming data limitations through generative models for the realization of high-resolution labeled medical imaging datasets</center>
 
 {%
-  include feature_center.html
+  include figure.html
   image="images/research_topics/genAI.png"
 %}
 
