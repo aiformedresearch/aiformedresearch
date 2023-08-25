@@ -1,13 +1,13 @@
 
 ---
-title: Fractal analysis 
+title: Overcoming data limitations through generative models for the realization of high-resolution labeled medical imaging datasets
 ---
 
-# <i class="Fractal analysis"></i>Fractal analysis for quantifying brain complexity during maturation, aging, and in neurological disorders
+# <i class="Overcoming data limitations through generative models for the realization of high-resolution labeled medical imaging datasets"></i>Overcoming data limitations through generative models for the realization of high-resolution labeled medical imaging datasets
 
 {%
   include feature.html
-  image="images/research_topics/brain.jpg"
+  image="images/research_topics/genAI.jpeg"
 %}
 
 
