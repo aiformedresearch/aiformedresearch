@@ -3,8 +3,8 @@ title: Summer School ASAI-ER Bertinoro
 author: giulia
 tags: 
   - AI
-  - coding
-  - school
+  - Coding
+  - Summer School
 ---
 
 Today, Giulia concluded the [Advanced School in Artificial Intelligence](https://asai-er.github.io/) located in Bertinoro (FC)!
