@@ -6,7 +6,7 @@ title: AI methods tailored for improving diagnostic accuracy and characterizatio
 
 {%
   include feature.html
-  image="images/research_topics/brain.jpeg"
+  image="images/research_topics/brain.png"
 %}
 
 Background: Clinical datasets used in deep learning applications often suffer from limited sample sizes. However, advancements in AI techniques including transfer learning, generative adversarial networks have paved the way to overcome, at least partially, this limitation.
