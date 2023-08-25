@@ -10,9 +10,11 @@ The research themes within our research group primarily focus on two main areas:
 
 {%
   include gallery.html
+  style="square"
 
   image1="images/research_topics/fractal.jpg"
   tooltip1="Fractal analysis, brain complexity"
+  link1="https://quantmarineecolab.github.io/research/monitoring"
 
   image2="images/research_topics/brain.jpg"
   tooltip2="Neurological disorders analysis"
@@ -26,6 +28,5 @@ The research themes within our research group primarily focus on two main areas:
       image5="images/research_topics/robotic_surgery.jpg"
   tooltip5="Robot-assisted surgery"
 
-  
 
 %}
