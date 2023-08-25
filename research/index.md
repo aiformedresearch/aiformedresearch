@@ -12,23 +12,23 @@ The research themes within our research group primarily focus on two main areas:
   include gallery.html
   style="square"
 
-  image1="images/research_topics/fractal.jpg"
+  image1="images/research_topics/fractal.jpeg"
   tooltip1="Fractal analysis, brain complexity"
   link1="https://aiformedresearch.github.io/aiformedresearch/research/fractal"
 
-  image2="images/research_topics/brain.jpg"
+  image2="images/research_topics/brain.jpeg"
   tooltip2="Neurological disorders analysis"
   link2="https://aiformedresearch.github.io/aiformedresearch/research/brain"
   
-  image3="images/research_topics/genAI.jpg"
+  image3="images/research_topics/genAI.jpeg"
   tooltip3="Generative AI"
   link3="https://aiformedresearch.github.io/aiformedresearch/research/genAI"
   
-  image4="images/research_topics/lung_cancer.jpg"
+  image4="images/research_topics/lung_cancer.jpeg"
   tooltip4="Lung cancer screening"
   link4="https://aiformedresearch.github.io/aiformedresearch/research/lung_cancer"
   
-  image5="images/research_topics/robotic_surgery.jpg"
+  image5="images/research_topics/robotic_surgery.jpeg"
   tooltip5="Robot-assisted surgery"
   link5="https://aiformedresearch.github.io/aiformedresearch/research/robotic_surgery"
 
