@@ -1,9 +1,3 @@
-{%
-  include section.html
-  background="images/verona.png"
-  dark=true
-  size=full
-%}
 ---
 title: I-ELCAP 44th International Conference on Screening for Lung Cancer
 author: giulia
