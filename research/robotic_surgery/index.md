@@ -2,10 +2,10 @@
 title: AI for augmented reality in robot-assisted surgery
 ---
 
-# <i class="AI for augmented reality in robot-assisted surgery"></i>AI for augmented reality in robot-assisted surgery
+# <center><i class="AI for augmented reality in robot-assisted surgery"></i>AI for augmented reality in robot-assisted surgery</center>
 
 {%
-  include feature.html
+  include feature_center.html
   image="images/research_topics/robotic_surgery.jpeg"
 %}
 
