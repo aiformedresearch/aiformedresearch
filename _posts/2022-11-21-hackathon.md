@@ -1,7 +1,9 @@
 ---
 title: INFN Hackathon
-author: riccardo scheda
-tags: hackaton, coding
+author: riccardo
+tags: 
+  - Hackaton
+  - Coding
 ---
 
 Today, Riccardo and Matteo will join the [Third ML-INFN Hackathon: Advanced Level](https://agenda.infn.it/event/32568/) located in Bari! During these days they will also visit ReCas DataCenter near the Physics Department in Bari
