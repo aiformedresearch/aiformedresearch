@@ -3,6 +3,11 @@ title: I-ELCAP 44th International Conference on Screening for Lung Cancer
 author: giulia
 tags: lung cancer, screening
 ---
+{% include section.html size="full" %}
+
+{% include figure.html image="images/verona.jpg" width="100%" %}
+
+{% include section.html %}
 
 Today, Giulia is back home from the [44th International Conference on Screening for Lung Cancer &
 12th Conference on Research for Early Lung Cancer Treatment](https://www.organizing.it/event/44th-international-conference-on-screening-for-lung-cancer-12th-conference-on-research-for-early-lung-cancer-treatment/) located in Verona (VR)!
@@ -15,10 +20,9 @@ The Conference lasted three days and the meetings where hosted in “Giorgio De 
 
 Here are some snapshots from the conference:
 
-{% include figure.html image="images/lente-didattica.jpg" width="30%" height="30%" caption="Borgo Roma Hospital" %}
-{% include figure.html image="images/conference-hall-VR.jpg" width="30%" height="30%" caption="Giorgio De Sandre Congress Hall" %}
+{% include figure.html image="images/lente-didattica.png" width="30%" height="30%" caption="Borgo Roma Hospital" %}
+{% include figure.html image="images/conference-hall-VR.png" width="30%" height="30%" caption="Giorgio De Sandre Congress Hall" %}
 {% include figure.html image="images/conference-cover-VR.png" width="30%" height="30%" caption="Conference cover photo" %}
-{% include figure.html image="images/conference-program-VR.png" width="30%" height="30%" caption="Conference Agenda" %}
 {% include figure.html image="images/conference-badge-VR.jpeg" width="30%" height="30%" caption="Giulia's Conference Badge" %}
 
 
