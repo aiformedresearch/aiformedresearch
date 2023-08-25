@@ -6,7 +6,7 @@ title: Fractal analysis
 
 {%
   include feature.html
-  image="images/research_topics/brain.jpg"
+  image="images/research_topics/fractal.jpeg"
 %}
 
 Background: The brain exhibits a remarkable degree of statistical self-similarity, and its complexity can be effectively described using fractal geometry. Fractal descriptors provide a valuable means of detecting subtle changes in the brain and monitoring the progression of neurodegenerative conditions. These descriptors capture both strict and statistical self-similarity across a range of spatial scales.
