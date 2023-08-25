@@ -5,7 +5,7 @@ title: Fractal analysis
 # <center><i class="Fractal analysis"></i>Fractal analysis for quantifying brain complexity during maturation, aging, and in neurological disorders</center>
 
 {%
-  include feature.html
+  include figure.html
   image="images/research_topics/fractal.png"
 %}
 
