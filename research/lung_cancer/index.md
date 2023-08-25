@@ -2,10 +2,10 @@
 title: Advanced deep learning for risk stratification in lung cancer screening
 ---
 
-# <i class="Advanced deep learning for risk stratification in lung cancer screening"></i>Advanced deep learning for risk stratification in lung cancer screening
+# <center><i class="Advanced deep learning for risk stratification in lung cancer screening"></i>Advanced deep learning for risk stratification in lung cancer screening</center>
 
 {%
-  include feature.html
+  include feature_center.html
   image="images/research_topics/lung_cancer.jpeg"
 %}
 
