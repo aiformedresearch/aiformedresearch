@@ -7,7 +7,7 @@ title: Overcoming data limitations through generative models for the realization
 
 {%
   include feature_center.html
-  image="images/research_topics/genAI.jpeg"
+  image="images/research_topics/genAI.png"
 %}
 
 Background: In the realm of deep learning applications, clinical datasets often present challenges such as small sizes and imbalanced data distributions. These limitations can impede the development of accurate and robust models. Generative models, including Generative Adversarial Networks (GANs) and Stable Diffusion, offer the potential for creating realistic synthetic clinical data, addressing data availability limitations.
