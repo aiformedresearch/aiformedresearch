@@ -1,12 +1,12 @@
 ---
-title: Fractal analysis 
+title: AI for augmented reality in robot-assisted surgery
 ---
 
-# <i class="Fractal analysis"></i>Fractal analysis for quantifying brain complexity during maturation, aging, and in neurological disorders
+# <i class="AI for augmented reality in robot-assisted surgery"></i>AI for augmented reality in robot-assisted surgery
 
 {%
   include feature.html
-  image="images/research_topics/brain.jpg"
+  image="images/research_topics/r0botic_surgery.jpeg"
 %}
 
 
