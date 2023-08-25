@@ -22,7 +22,7 @@ The research themes within our research group primarily focus on two main areas:
   
   image3="images/research_topics/genAI.jpeg"
   tooltip3="Generative AI"
-  link3="https://aiformedresearch.github.io/aiformedresearch/research/genAI"
+  link3="https://aiformedresearch.github.io/aiformedresearch/research/gen_ai"
   
   image4="images/research_topics/lung_cancer.jpeg"
   tooltip4="Lung cancer screening"
