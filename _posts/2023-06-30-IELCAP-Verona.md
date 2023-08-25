@@ -15,18 +15,18 @@ The Conference lasted three days and the meetings where hosted in “Giorgio De 
 
 Here are some snapshots from the conference:
 
-![Borgo Roma Hospital](images/lente-didattica.png)
+![Borgo Roma Hospital](..images/lente-didattica.png)
 *Borgo Roma Hospital*
 
-![Congress Hall](images/conference-hall-VR.png)
+![Congress Hall](..images/conference-hall-VR.png)
 *"Giorgio De Sandre” Congress Hall*
 
-![Conference cover photo](images/conference-cover-VR.png)
+![Conference cover photo](..images/conference-cover-VR.png)
 *Conference cover photo*
 
-![Conference Agenda](images/conference-program-VR.png)
+![Conference Agenda](..images/conference-program-VR.png)
 *Conference Agenda*
 
-![Conference Badge](images/conference-badge-VR.jpeg)
+![Conference Badge](..images/conference-badge-VR.jpeg)
 *Conference Badge*
 
