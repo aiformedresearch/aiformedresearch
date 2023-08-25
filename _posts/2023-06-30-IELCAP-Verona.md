@@ -3,8 +3,8 @@ title: I-ELCAP 44th International Conference on Screening for Lung Cancer
 author: giulia
 tags: 
   - Lung cancer
-  - screening
-  - conference
+  - Screening
+  - Conference
 ---
 
 Today, Giulia is back home from the [44th International Conference on Screening for Lung Cancer &
