@@ -6,7 +6,7 @@ title: Advanced deep learning for risk stratification in lung cancer screening
 
 {%
   include feature_center.html
-  image="images/research_topics/lung_cancer.jpeg"
+  image="images/research_topics/lung_cancer.png"
 %}
 
 Background: Lung cancer is a global cause of cancer-related deaths, requiring effective screening methods. The current selection of high-risk individuals based solely on smoking behavior has led to overdiagnosis. Including coronary artery calcifications (CAC) and emphysema scores from LDCT scans, which are associated with cardiovascular disease (CVD) and COPD, the main causes of death alongside lung cancer in LCS cohorts, can improve the risk stratification process, leading to personalization of the screening interventions.
