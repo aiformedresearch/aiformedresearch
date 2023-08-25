@@ -2,7 +2,7 @@
 title: AI methods tailored for improving diagnostic accuracy and characterization of neurological disorders
 ---
 
-# <i class="AI methods tailored for improving diagnostic accuracy and characterization of neurological disorders"></i>AI methods tailored for improving diagnostic accuracy and characterization of neurological disorders
+# <center><i class="AI methods tailored for improving diagnostic accuracy and characterization of neurological disorders"></i>AI methods tailored for improving diagnostic accuracy and characterization of neurological disorders</center>
 
 {%
   include feature.html
