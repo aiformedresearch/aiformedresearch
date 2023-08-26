@@ -6,7 +6,7 @@ nav:
 
 # <i class="fas research"></i>Research
 
-The research themes within our research group primarily focus on two main areas: computational medical imaging and artificial intelligence (AI) for Medicine. Our investigations revolve around the following key themes:
+<center>The research themes within our research group primarily focus on two main areas: computational medical imaging and artificial intelligence (AI) for Medicine. Our investigations revolve around the following key themes:</center>
 
 {%
   include gallery.html
