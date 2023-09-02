@@ -2,7 +2,7 @@
  title: Federica Giorgini
  name: Federica Giorgini
  image: images/photo_federica.jpeg
- role: researcher
+ role: cr
  description: Clinical Researcher
  group: alum 
  aliases: 
