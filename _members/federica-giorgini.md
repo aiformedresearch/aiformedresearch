@@ -13,7 +13,7 @@
    email: federica.giorgini@aosp.bo.it
    orcid: 0000-0002-2942-9068
    github: federica1295
-   linkedin: federica-giorgini
+   linkedin: federica-giorgini-97464026b
    CV: https://drive.google.com/file/d/1GLRQEHuonzKNOqf1Ar-QRj6qM9bLf_it/view?usp=drive_link
 ---
   
