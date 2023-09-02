@@ -40,4 +40,10 @@ footer-dark: false
   component="portrait"
   filters="role: programmer"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: cr"
+%}
 {:.center}
