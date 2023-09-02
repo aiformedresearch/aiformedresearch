@@ -2,8 +2,8 @@
 title: Giulia Raffaella De Luca
 name: Giulia Raffaella De Luca
 image: images/giulia_deluca.jpg
-role: phd
-description: PhD student
+role: grad
+description: Postgraduate Researcher
 group: alum
 aliases:
   - G. R. De Luca
