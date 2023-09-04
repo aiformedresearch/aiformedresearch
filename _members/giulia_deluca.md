@@ -10,7 +10,8 @@ aliases:
   - G R De Luca
   - Giulia Raffaella De Luca 
 links:
-  email: giulia.deluca11@studio.unibo.it 
+  email: giulia.deluca19@unibo.it
+  website: https://www.unibo.it/sitoweb/giulia.deluca19 
   github: giurdeluca
   linkedin: giulia-raffaella-de-luca/
   CV: https://drive.google.com/file/d/1-JMFlpE-XRUAMeAF9ri-E4jPn3NCxeI2/view?usp=drive_link
