@@ -18,7 +18,7 @@ cr:
   icon: fas fa-vial
   text: Clinical Researcher
 
-rf:
+resf:
   icon: fas fa-glasses
   text: Research Fellow
   
