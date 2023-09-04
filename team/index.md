@@ -44,7 +44,7 @@ footer-dark: false
   include list.html
   data="members"
   component="portrait"
-  filters="role: rf"
+  filters="role: resf"
 %}
 {%
   include list.html
