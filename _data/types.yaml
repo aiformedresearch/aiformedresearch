@@ -18,10 +18,10 @@ cr:
   icon: fas fa-vial
   text: Clinical Researcher
 
-rf: 
+rf:
   icon: fas fa-glasses
-  text: Research Fellow 
-
+  text: Research Fellow
+  
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
