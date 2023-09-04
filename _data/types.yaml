@@ -19,8 +19,8 @@ cr:
   text: Clinical Researcher
 
 rf: 
-	icon: fas fa-glasses
-	text: Research Fellow 
+  icon: fas fa-glasses
+  text: Research Fellow 
 
 undergrad:
   icon: fa-solid fa-user-graduate
