@@ -15,7 +15,7 @@ links:
   orcid: 0009-0006-1314-913X
   github: MatteoLai
   linkedin: matteo-lai-519654204/
-  resume: https://drive.google.com/file/d/174sXZhpZHqOORweL7H2oxsHDN-RCS9OR/view?usp=sharing
+  resume: https://matteo-lai-resume.my.canva.site/
   CV: https://www.canva.com/design/DAFmRaFzsDc/GJoPET0e22kcA5JhWF8rJg/view?website#2:problem-solving
 ---
 
