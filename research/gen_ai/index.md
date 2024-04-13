@@ -1,4 +1,3 @@
-
 ---
 title: Overcoming data limitations through generative models for the realization of high-resolution labeled medical imaging datasets
 ---
