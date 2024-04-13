@@ -1,6 +1,6 @@
 ---
 title: Participation at the Aindo hackathon
-author: matteo
+author: matteo, andrea
 tags: 
   - Hackathon
   - Coding
