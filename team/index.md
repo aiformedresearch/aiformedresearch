@@ -12,7 +12,7 @@ footer-dark: false
 <!-- section dark -->
 <!-- section background images/banner.jpg -->
 
-{% include figure.html image="images/team_photo.JPG" width="40%" height="40%" %}
+{% include figure.html image="images/TEAM (1).pdf" width="60%" height="40%" %}
 
 {% include section.html %}
 # <i class="fas fa-users"></i>Group Members
@@ -46,7 +46,7 @@ footer-dark: false
   </div>
 </div>
 
-# <i class="fas fa-clock-rotate-lef"></i>Past Members
+# <i class="fa-solid fa-clock-rotate-lef"></i>Past Members
 
 {%
   include list.html
