@@ -54,6 +54,6 @@ footer-dark: false
   include list.html
   data="members"
   component="portrait"
-  filters="role: cr"
+  filters="role: past"
 %}
 
