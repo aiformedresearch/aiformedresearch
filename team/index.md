@@ -49,7 +49,7 @@ footer-dark: false
 {:.center}
 
 # <i class="fas fa-users"></i>Past Members
-<center>
+
 {%
   include list.html
   data="members"
