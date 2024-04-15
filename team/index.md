@@ -21,35 +21,44 @@ footer-dark: false
 <i>For up-to-date info about the Group members, check out their personal links.</i></center>
 
 
-
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: programmer"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: resf"
-%}
+<div class="row">
+  <div class="column">
+    {%
+      include list.html
+      data="members"
+      component="portrait"
+      filters="role: pi"
+    %}
+  </div>
+  <div class="column">
+    {%
+      include list.html
+      data="members"
+      component="portrait"
+      filters="role: phd"
+    %}
+  </div>
+  <div class="column">
+    {%
+      include list.html
+      data="members"
+      component="portrait"
+      filters="role: programmer"
+    %}
+  </div>
+  <div class="column">
+    {%
+      include list.html
+      data="members"
+      component="portrait"
+      filters="role: resf"
+    %}
+  </div>
+</div>
 
 {:.center}
 
-# <i class="fas fa-users"></i>Past Members
+# <i class="fas fa-clock-rotate-lef"></i>Past Members
 
 {%
   include list.html
