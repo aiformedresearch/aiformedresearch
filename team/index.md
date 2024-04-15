@@ -56,8 +56,6 @@ footer-dark: false
   </div>
 </div>
 
-{:.center}
-
 # <i class="fas fa-clock-rotate-lef"></i>Past Members
 
 {%
