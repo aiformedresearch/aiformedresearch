@@ -20,31 +20,26 @@ footer-dark: false
 <center>The <b>AI for Medicine Research Group</b> is led by <b>Prof. Stefano Diciotti</b>.<br><br>
 <i>For up-to-date info about the Group members, check out their personal links.</i></center>
 
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: pi"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phd"
+%}
 
-<div class="row">
-  <div class="column">
-    {%
-      include list.html
-      data="members"
-      component="portrait"
-      filters="role: pi"
-    %}
-    {%
-      include list.html
-      data="members"
-      component="portrait"
-      filters="role: phd"
-    %}
-  </div>
-  <div class="column">
-    {%
-      include list.html
-      data="members"
-      component="portrait"
-      filters="role: resf"
-    %}
-  </div>
-</div>
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: resf"
+%}
+
 
 # <i class="fa-solid fa-clock-rotate-lef"></i>Past Members
 
