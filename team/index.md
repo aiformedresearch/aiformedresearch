@@ -46,12 +46,6 @@ footer-dark: false
   component="portrait"
   filters="role: resf"
 %}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: resf"
-%}
 {:.center}
 
 # <i class="fas fa-users"></i>Past Members
@@ -62,4 +56,4 @@ footer-dark: false
   component="portrait"
   filters="role: cr"
 %}
-{:.center}
+
