@@ -29,21 +29,11 @@ footer-dark: false
       component="portrait"
       filters="role: pi"
     %}
-  </div>
-  <div class="column">
     {%
       include list.html
       data="members"
       component="portrait"
       filters="role: phd"
-    %}
-  </div>
-  <div class="column">
-    {%
-      include list.html
-      data="members"
-      component="portrait"
-      filters="role: programmer"
     %}
   </div>
   <div class="column">
