@@ -46,6 +46,7 @@ footer-dark: false
   component="portrait"
   filters="role: resf"
 %}
+
 {:.center}
 
 # <i class="fas fa-users"></i>Past Members
