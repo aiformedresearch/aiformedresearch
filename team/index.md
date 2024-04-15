@@ -53,3 +53,13 @@ footer-dark: false
   filters="role: cr"
 %}
 {:.center}
+
+# <i class="fas fa-users"></i>Past Members
+<center>
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: cr"
+%}
+{:.center}
