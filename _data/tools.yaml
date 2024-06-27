@@ -24,7 +24,7 @@
   repo: aiformedresearch/PACGAN
   buttons:
   - type: article
-    link: https://www.google.com
+    link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4867927
     text: Article
   - type: github
     link: aiformedresearch/PACGAN
