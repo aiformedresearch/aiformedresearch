@@ -16,7 +16,7 @@ links:
   github: MatteoLai
   linkedin: matteo-lai-519654204/
   resume: https://matteo-lai-resume.my.canva.site/
-  CV: https://www.canva.com/design/DAFmRaFzsDc/GJoPET0e22kcA5JhWF8rJg/view#1
+  CV: https://www.canva.com/design/DAFmRaFzsDc/GJoPET0e22kcA5JhWF8rJg/view
 ---
 
 <center>"Live as if you were to die tomorrow. Learn as if you were to live forever." (Mahatma Gandhi)<br><br><br><br>Matteo's doctoral research project is "A deep learning framework for unveiling multimodal neural signatures in the Autism Spectrum Disorder".<br><br>His research activity places a strong emphasis on harnessing the potential of generative models such as <b>Generative Adversarial Networks (GANs)</b> to tackle the issue of data scarcity in the medical field.</center>
