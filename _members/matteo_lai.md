@@ -14,7 +14,7 @@ links:
   website: https://www.unibo.it/sitoweb/matteo.lai3/en
   orcid: 0009-0006-1314-913X
   github: MatteoLai
-  linkedin: matteo-lai-519654204/
+  linkedin: matteolai3
   resume: https://matteo-lai-resume.my.canva.site/
   CV: https://www.canva.com/design/DAFmRaFzsDc/WF12Rf0wg0siZYroR6p0tA/view?utm_content=DAFmRaFzsDc&utm_campaign=designshare&utm_medium=link&utm_source=editor
 ---
