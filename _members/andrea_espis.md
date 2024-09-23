@@ -1,7 +1,7 @@
 ---
 title: Andrea Espis
 name: Andrea Espis
-image: images/Andrea_new_photo_small.jpg
+image: images/Andrea_new_photo_small_larger.jpg
 role: phd
 description: PhD student
 group: alum
