@@ -1,7 +1,7 @@
 ---
 title: Andrea Espis
 name: Andrea Espis
-image: images/Andrea_photo_small.jpg
+image: images/Andrea_new_photo_small.jpg
 role: phd
 description: PhD student
 group: alum
@@ -17,5 +17,5 @@ links:
   CV: https://drive.google.com/file/d/1Q8R_GEXt6-Agiwo1oXYVtWuEgxRZUv30/view?usp=sharing/
 ---
 
-<center>"Everything you can imagine is real" (Pablo Picasso)<br><br><br><br>Andrea's doctoral research project is "Beyond Supervised Learning frameworks for Precision Medicine". <br><br>He is focused on <b>Self-supervised, Semi-supervised, Multi-modal learning, Imaging and Genomics</b>.</center>
+<center>"Everything you can imagine is real" (Pablo Picasso)<br><br><br><br>Andrea's doctoral research project is "Beyond Supervised Learning frameworks for Precision Medicine". <br><br>He is focused on <b>Self-supervised, Semi-supervised, Multi-modal learning, Imaging and Genomics for brain MRI analysis and Pan-cancer analysis</b>.</center>
   
