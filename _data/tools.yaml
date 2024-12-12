@@ -43,13 +43,11 @@
   group: synthetic
   image: images/Metrics.png
   link: https://github.com/aiformedresearch/Synthetic_Images_Metrics_Toolkit
-  description: Collection of state-of-the-art metrics for the evaluation of the quality of synthetic images 
-  repo: aiformedresearch/Synthetic_Images_Metrics_Toolkit
-  buttons:
-  - type: github
-    link: aiformedresearch/Synthetic_Images_Metrics_Toolkit
+  description: Collection of state-of-the-art metrics for the evaluation of the quality of synthetic images - AVAILABLE SOON
+
   tags:
     - Synthetic data
+    - Validation
     
 - title: Age prediction
   group: more
