@@ -6,7 +6,6 @@ tags:
   - Lung cancer
   - Screening
   - Open science
-
 ---
 
 Exciting news!
