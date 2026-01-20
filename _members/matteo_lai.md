@@ -11,13 +11,13 @@ aliases:
   - Matteo Lai
 links:
   email: matteo.lai3@unibo.it
-  website: https://www.unibo.it/sitoweb/matteo.lai3/en
+  website: https://matteolai.lovable.app/
   orcid: 0009-0006-1314-913X
   github: MatteoLai
   linkedin: matteolai3
-  resume: https://matteo-lai-resume.my.canva.site/
-  CV: https://www.canva.com/design/DAFmRaFzsDc/WF12Rf0wg0siZYroR6p0tA/view?utm_content=DAFmRaFzsDc&utm_campaign=designshare&utm_medium=link&utm_source=editor
+  resume: https://drive.google.com/file/d/1DJbtztvDVdHprFE8hvdDKXk0Yt6qoB0c/view?usp=sharing
+  CV: https://drive.google.com/file/d/1Oth-ee-FAqFRePNkObwUJIyj_OvnoCiM/view?usp=sharing
 ---
 
-<center>"Live as if you were to die tomorrow. Learn as if you were to live forever." (Mahatma Gandhi)<br><br><br><br>Matteo's doctoral research project is "A deep learning framework for unveiling multimodal neural signatures in the Autism Spectrum Disorder".<br><br>His research activity places a strong emphasis on harnessing the potential of generative models such as <b>Generative Adversarial Networks (GANs)</b> to tackle the issue of data scarcity in the medical field.</center>
+<center>"Live as if you were to die tomorrow. Learn as if you were to live forever." (Mahatma Gandhi)<br><br><br><br>Matteo's research activity places a strong emphasis on harnessing the potential of generative models such as <b>Generative Adversarial Networks (GANs)</b> and <b>diffusion models</b> to tackle the issue of data scarcity in the medical field.</center>
   
